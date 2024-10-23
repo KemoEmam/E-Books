@@ -1,7 +1,7 @@
-# Bookly
+# E-Books
 
 ## Description
-Bookly is a Flutter app that connects to the Google API to show different genres and wide variations of free books. Each book has its own rating and book description, including the author name, book title, and cover image. Found a book you enjoy? You can simply add it to the cart and download it for free or read it online through the app. The app structure follows the MVVM architecture pattern to separate concerns between app layers and to maintain clean, manageable code.
+E-Books is a Flutter app that connects to the Google API to show different genres and wide variations of free books. Each book has its own rating and book description, including the author name, book title, and cover image. Found a book you enjoy? You can simply add it to the cart and download it for free or read it online through the app. The app structure follows the MVVM architecture pattern to separate concerns between app layers and to maintain clean, manageable code.
 
 ## Features
 - **Browse Books**: View a wide range of books available in different genres.
